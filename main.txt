@@ -1,0 +1,22 @@
+algortimo para dar solucion  a un desafio en la academia de software cadif1
+
+teniendo en cuenta que el individuo tenga un aparato electronico 
+(en este caso una laptop)en dondepueda acceder a la pagina y tenga 
+una señal optima de internet para navegar la misma se procede a realizar 
+los siguientes pasos:
+
+1. abrir la laptop
+2. prender la laptop
+3. acceder al navegador de preferencia 
+4. ingresar a la pagina web cadif1.com
+5. iniciar sesion 
+6. ingresar usuario y contraseña
+7. acceder a la seccion de la clase que desea subir el desafio
+8. hacer click en la opcion de desafios en el menu 
+9. hacer click en cargar solucion 
+10. hacer click en el browse para cargar el archivo 
+11. hacer click en cargar solucion
+12. cerrar sesion
+
+
+ffffffffffffffffme matofffffff
